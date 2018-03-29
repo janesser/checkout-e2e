@@ -1,0 +1,1 @@
+ghci $(find -name '*.hs')
