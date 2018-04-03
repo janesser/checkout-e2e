@@ -1,10 +1,10 @@
 module OTC ( PaymentMethod
            , isSecure
            -- re-export
---           , Customer
---           , Cart
---           , Recipient
---           , Creditor
+           , Customer
+           , Cart
+           , Recipient
+           , Creditor
            ) where
 
 import CLM(Customer)
